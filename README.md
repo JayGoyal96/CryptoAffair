@@ -4,4 +4,4 @@
 
 >![alt text](https://github.com/JayGoyal96/CryptoAffair/blob/main/extension2.PNG?raw=true)
 
-### Clone repo and enable developer mode on "chrome://extensions/" and click load unpacked and select respective folder to use.
+### Clone repo, enable developer mode on "chrome://extensions/", click load unpacked and select respective folder to use.
