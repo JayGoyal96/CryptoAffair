@@ -1,0 +1,17 @@
+{
+    "name": "Crypto Affair",
+    "version": "1.0.0",
+    "description":"Provides the latest prices and trends of popular cryptocurrencies in INR.",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    },
+    "permissions": [
+        "webRequest",
+        "https://api.coingecko.com/*"
+    ]
+}
